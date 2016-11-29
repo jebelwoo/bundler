@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "net/http"
+require "net/https"
 
 # We can't use artifice here because it uses rack
 
